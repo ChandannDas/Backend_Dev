@@ -1,1 +1,8 @@
+1. Monolithic
+Monolithic means an application is built as one single, tightly connected unit.
+- All functionalities are part of one application.
+- Frontend, backend, business logic, and database interactions are generally managed within one system.
+- If you make a change in one module, you may need to rebuild and redeploy the entire application.
+- Modules are often tightly coupled.
 
+FAST API : fast api is a python framework which is used to build api
